@@ -100,7 +100,9 @@ Created as a fun, informative side project inspired by the elective **CPSC 298: 
 
 ## Authors
 **Anela Quiroz**
+
 **Sebastian Herrera**
+
 **Jason Kim**
 
 ## References
